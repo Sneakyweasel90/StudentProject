@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\NeilMannionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|e:\\project\\neilmannionproject\\neilmannionproject\\updatestudentscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\updatestudentscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|e:\\project\\neilmannionproject\\neilmannionproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|E:\\Project\\NeilMannionProject\\neilmannionproject\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83889D3-F6DC-443E-90D0-3D5D6D91EF42}|BusinessLayer\\BusinessLayer.csproj|e:\\project\\neilmannionproject\\businesslayer\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83889D3-F6DC-443E-90D0-3D5D6D91EF42}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|e:\\project\\neilmannionproject\\neilmannionproject\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\addscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83889D3-F6DC-443E-90D0-3D5D6D91EF42}|BusinessLayer\\BusinessLayer.csproj|e:\\project\\neilmannionproject\\businesslayer\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83889D3-F6DC-443E-90D0-3D5D6D91EF42}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83889D3-F6DC-443E-90D0-3D5D6D91EF42}|BusinessLayer\\BusinessLayer.csproj|e:\\project\\neilmannionproject\\businesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83889D3-F6DC-443E-90D0-3D5D6D91EF42}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|e:\\project\\neilmannionproject\\neilmannionproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|E:\\Project\\NeilMannionProject\\neilmannionproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|E:\\Project\\NeilMannionProject\\neilmannionproject\\updatestudentscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\updatestudentscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|E:\\Project\\NeilMannionProject\\neilmannionproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8B8BD5D-0388-4434-88F0-C93CAE199B49}|NeilMannionProject\\NeilMannionProject.csproj|solutionrelative:neilmannionproject\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\BusinessLayer\\Person.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Person.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\BusinessLayer\\Person.cs",
+              "RelativeToolTip": "BusinessLayer\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:42:48.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\BusinessLayer\\Student.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Student.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\BusinessLayer\\Student.cs",
+              "RelativeToolTip": "BusinessLayer\\Student.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:06:32.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\BusinessLayer\\StudentList.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\StudentList.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\BusinessLayer\\StudentList.cs",
+              "RelativeToolTip": "BusinessLayer\\StudentList.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:05:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddScore.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddScore.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\AddScore.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddScore.cs",
+              "RelativeToolTip": "NeilMannionProject\\AddScore.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:43:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\Main.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\Main.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\Main.cs",
+              "RelativeToolTip": "NeilMannionProject\\Main.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:08:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateStudentScores.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\UpdateStudentScores.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\UpdateStudentScores.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\UpdateStudentScores.cs [Design]",
+              "RelativeToolTip": "NeilMannionProject\\UpdateStudentScores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:44:13.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddScore.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddScore.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\AddScore.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddScore.cs [Design]",
+              "RelativeToolTip": "NeilMannionProject\\AddScore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:00:55.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddStudent.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\AddStudent.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddStudent.cs",
+              "RelativeToolTip": "NeilMannionProject\\AddStudent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:45:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateStudentScores.cs",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\UpdateStudentScores.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\UpdateStudentScores.cs",
+              "ToolTip": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\UpdateStudentScores.cs",
+              "RelativeToolTip": "NeilMannionProject\\UpdateStudentScores.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:55:18.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\Main.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\Main.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 2\\OOP\\Project\\NeilMannionProject - 13Finished\\NeilMannionProject\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:31:57.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\NeilMannionProject\\NeilMannionProject\\AddStudent.cs",
+              "RelativeDocumentMoniker": "NeilMannionProject\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 2\\OOP\\Project\\NeilMannionProject - 13Finished\\NeilMannionProject\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:08:32.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+E:\Project\NeilMannionProject\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+E:\Project\NeilMannionProject\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+E:\Project\NeilMannionProject\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+E:\Project\NeilMannionProject\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

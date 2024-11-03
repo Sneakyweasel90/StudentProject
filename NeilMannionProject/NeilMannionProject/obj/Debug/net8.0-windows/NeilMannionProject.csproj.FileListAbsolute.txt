@@ -1,0 +1,300 @@
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Student_Scores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Add_UpdateScore.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - Copy\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdateScore.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScore.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 2Added info\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 4WithoutAddUpdateform\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 5Adding properties and methods\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CopyComplete
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 6Main form updates\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CopyComplete
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 7Main form get data\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 8Getting information to add from addStudent form\NeilMannionProject\obj\Debug\net8.0-windows\NeilMann.4BEFE730.Up2Date
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 9Main form and addstudent updated\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CopyComplete
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMann.4BEFE730.Up2Date
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 10Making adjustments\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMann.4BEFE730.Up2Date
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 11Final Touches\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddUpdatScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMann.4BEFE730.Up2Date
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 12Adding Testing\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddScore.resources
+C:\Users\neilm\OneDrive - NBCC\School Things\Term 2\OOP\Project\NeilMannionProject - 13Finished\NeilMannionProject\obj\Debug\net8.0-windows\NeilMann.4BEFE730.Up2Date
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.exe
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.deps.json
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.runtimeconfig.json
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.dll
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\NeilMannionProject.pdb
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.dll
+E:\Project\NeilMannionProject\NeilMannionProject\bin\Debug\net8.0-windows\BusinessLayer.pdb
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.AssemblyReference.cache
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddScore.resources
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AddStudent.resources
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.Main.resources
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.UpdateStudentScores.resources
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.GenerateResource.cache
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfoInputs.cache
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.AssemblyInfo.cs
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.csproj.CoreCompileInputs.cache
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMann.4BEFE730.Up2Date
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.dll
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\refint\NeilMannionProject.dll
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.pdb
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\NeilMannionProject.genruntimeconfig.cache
+E:\Project\NeilMannionProject\NeilMannionProject\obj\Debug\net8.0-windows\ref\NeilMannionProject.dll
